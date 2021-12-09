@@ -52,6 +52,7 @@ The key metric to the success of the project is how well  and to what level we c
 <ol>
   <li>the ability to check accounts and balances from the DPLC</li>
   <li>the ability to read state data from a smart contract and automate actions based on it</li>
+    <li>Active user base is another key metric although a bit more difficult to track</li>
 </ol> 
 other metrics are related to documentation and the creation of example projects 
 
